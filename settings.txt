@@ -1,0 +1,3 @@
+ambientLight 0.1 0.1 0.1
+resolution 4000 2000
+maxRayDepth: 30
